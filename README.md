@@ -7,3 +7,5 @@ I have used [Tailwind](https://tailwindcss.com) for the styling because I think 
 The base react app was created with create-react-app.  
 
 If you want to run the application, clone this repository and use command `npm start` to run the application. You will find it in http://localhost:3000
+
+You can also check the live demo here: https://jurisdiction-selector.vercel.app
